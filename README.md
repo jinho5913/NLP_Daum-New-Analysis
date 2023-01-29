@@ -1,4 +1,4 @@
-# NLP_Naver-New-Analysis
+# NLP_Daum-New-Analysis
 
 ### 다음 뉴스 기사 분석  
 1. 다음 뉴스를 크롤링하여 데이터셋 구축
